@@ -4,6 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   console.log('hello')
+  console.log('second commit')
   return (
     
     <View style={styles.container}>
